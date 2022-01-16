@@ -1,5 +1,6 @@
 import bandarban from "./images/Bandarban.jpg";
 import sylhet from "./images/sylhet.jpg";
+import cox from "./images/cox.jpg";
 export default [{
         title: "Bandarban",
         location: "Bangladesh",
